@@ -40,6 +40,7 @@ require (
 	github.com/parallaxsecond/parsec-client-go v0.0.0-20221025095442-f0a77d263cf9 // indirect
 	github.com/pion/transport/v3 v3.0.7 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
+	github.com/tjfoc/gmsm v1.4.1 // indirect
 	golang.org/x/text v0.28.0 // indirect
 	google.golang.org/protobuf v1.36.5 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
